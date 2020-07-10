@@ -1,0 +1,55 @@
+{
+    "app": {
+        "name": "Untitled Goose Guide",
+        "color": "#008577"
+    },
+    
+    
+    "ads":{
+        "bannerId": "ca-app-pub-1636943929816716/8061386561",
+        "interstitialId": "ca-app-pub-1636943929816716/3519506324"
+    },
+    
+    
+    "content": {
+        "page1": {
+          "title": "Walkthrough JUMANJI",
+          "url": "https://abdersl.github.io/jumanjirun/1.html",
+          "img": "https://www.freepngimg.com/thumb/animation/88486-television-behavior-wallpaper-question-desktop-human-highdefinition.png"
+        },
+        "page2": {
+          "title": "Training",
+          "url": "https://abdersl.github.io/jumanjirun/2.html",
+          "img": "https://www.freepngimg.com/thumb/animation/88486-television-behavior-wallpaper-question-desktop-human-highdefinition.png"
+        },
+        "page3": {
+          "title": "Strange Bazaar",
+          "url": "https://abdersl.github.io/jumanjirun/3.html",
+          "img": "https://www.freepngimg.com/thumb/animation/88486-television-behavior-wallpaper-question-desktop-human-highdefinition.png"
+        },
+        "page4": {
+          "title": "Jungle Refuge",
+          "url": "https://abdersl.github.io/jumanjirun/4.html",
+          "img": "https://www.freepngimg.com/thumb/animation/88486-television-behavior-wallpaper-question-desktop-human-highdefinition.png"
+        },
+        "page5": {
+          "title": "Mountain fortress",
+          "url": "https://abdersl.github.io/jumanjirun/5.html",
+          "img": "https://www.freepngimg.com/thumb/animation/88486-television-behavior-wallpaper-question-desktop-human-highdefinition.png"
+        },
+        "page6": {
+          "title": "Night chase",
+          "url": "https://abdersl.github.io/jumanjirun/6.html",
+          "img": "https://www.freepngimg.com/thumb/animation/88486-television-behavior-wallpaper-question-desktop-human-highdefinition.png"
+        },
+  
+        "page7": {
+          "title": "Good Luck!",
+          "url": "https://abdersl.github.io/jumanjirun/Good.html",
+          "img": "https://www.freepngimg.com/thumb/star/8-yellow-star-png-image-thumb.png"
+
+        }
+
+        }
+      }
+}
