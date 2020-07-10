@@ -1,51 +1,51 @@
 {
     "app": {
-        "name": "Untitled Goose Guide",
+        "name": "JUMANJI RUN GUIDE",
         "color": "#008577"
     },
     
     
     "ads":{
-        "bannerId": "ca-app-pub-1636943929816716/8061386561",
-        "interstitialId": "ca-app-pub-1636943929816716/3519506324"
+        "bannerId": "ca-app-pub-1636943929816716/2014852966",
+        "interstitialId": "ca-app-pub-1636943929816716/5762526288"
     },
     
     
     "content": {
         "page1": {
           "title": "Walkthrough JUMANJI",
-          "url": "https://abdersl.github.io/jumanjirun/1.html",
+          "url": "https://abdersl.github.io/jumanjirun/1.htm",
           "img": "https://www.freepngimg.com/thumb/animation/88486-television-behavior-wallpaper-question-desktop-human-highdefinition.png"
         },
         "page2": {
           "title": "Training",
-          "url": "https://abdersl.github.io/jumanjirun/2.html",
+          "url": "https://abdersl.github.io/jumanjirun/2.htm",
           "img": "https://www.freepngimg.com/thumb/animation/88486-television-behavior-wallpaper-question-desktop-human-highdefinition.png"
         },
         "page3": {
           "title": "Strange Bazaar",
-          "url": "https://abdersl.github.io/jumanjirun/3.html",
+          "url": "https://abdersl.github.io/jumanjirun/3.htm",
           "img": "https://www.freepngimg.com/thumb/animation/88486-television-behavior-wallpaper-question-desktop-human-highdefinition.png"
         },
         "page4": {
           "title": "Jungle Refuge",
-          "url": "https://abdersl.github.io/jumanjirun/4.html",
+          "url": "https://abdersl.github.io/jumanjirun/4.htm",
           "img": "https://www.freepngimg.com/thumb/animation/88486-television-behavior-wallpaper-question-desktop-human-highdefinition.png"
         },
         "page5": {
           "title": "Mountain fortress",
-          "url": "https://abdersl.github.io/jumanjirun/5.html",
+          "url": "https://abdersl.github.io/jumanjirun/5.htm",
           "img": "https://www.freepngimg.com/thumb/animation/88486-television-behavior-wallpaper-question-desktop-human-highdefinition.png"
         },
         "page6": {
           "title": "Night chase",
-          "url": "https://abdersl.github.io/jumanjirun/6.html",
+          "url": "https://abdersl.github.io/jumanjirun/6.htm",
           "img": "https://www.freepngimg.com/thumb/animation/88486-television-behavior-wallpaper-question-desktop-human-highdefinition.png"
         },
   
         "page7": {
           "title": "Good Luck!",
-          "url": "https://abdersl.github.io/jumanjirun/Good.html",
+          "url": "https://abdersl.github.io/jumanjirun/Good.htm",
           "img": "https://www.freepngimg.com/thumb/star/8-yellow-star-png-image-thumb.png"
 
         }
